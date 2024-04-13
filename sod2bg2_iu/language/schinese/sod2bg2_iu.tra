@@ -7,55 +7,55 @@
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 @9000 = ~SoD to BG2:EE Item upgrade by Daeros_Trollkiller~
 @9001 = ~Installing.......~
-@9002 = ~Force all import-able SoD items to be available in their normal locations ****Requires starting a new game****~
-@9003 = ~This component is not compatible with this game.  It is only compatible with Baldur's Gate 2: Enhanced Edition, and Baldur's Gate: EE Trilogy.~
-@9004 = ~All importable items with Voidsword +3~
-@9005 = ~All importable items with Voidhammer +3~
-@9006 = ~*****NOTE: Voidsword +3 and Voidhammer +3 are mutually exclusive, choose which to import*****~
-@9007 = ~Change Cromwell's equipment to be more in-line with his forging skills~
-@9008 = ~Add Icewind Dale items and new spells to Baldur's Gate: Enhanced Edition and Siege of Dragonspear?~
-@9009 = ~This component is not compatible with this game, it is only compatible with Baldur's Gate: Enhanced Edition~
-@9010 = ~Allow choice of weapon imported from Baldur's Gate into Irenecus' dungeon~
-@9011 = ~Varscona +2~
-@9012 = ~The Burning Earth +1~
-@9013 = ~Ashideena +2~
-@9014 = ~Bala's Axe, Wizard Slayer~
-@9015 = ~Suryris's Blade +2~
-@9016 = ~The Grave Binder +2~
-@9017 = ~Staff Spear +2~
-@9018 = ~Staff Mace +2~
-@9019 = ~Sling +3~
-@9020 = ~Krotan's Skullcrusher +2~
-@9021 = ~Kiel's Morningstar +3~
-@9022 = ~Cursed Berserking Sword +3~
+@9002 = ~强制所有可导入的龙矛围攻物品在其正常位置可用 ****需要开始新游戏****~
+@9003 = ~此组件与本游戏不兼容。 它只与《博德之门2：增强版》和《博德之门：增强版三部曲》兼容。~
+@9004 = ~所有可导入物品以及虚空剑+3~
+@9005 = ~所有可导入项目以及虚空锤+3~
+@9006 = ~*****注意：虚空剑+3 和虚空锤+3是互斥的，请选择导入哪一个*****~
+@9007 = ~更改克伦威尔的装备，使其更符合他的锻造技能~
+@9008 = ~在《博德之门：增强版》和《龙矛围攻》中添加冰风谷物品和新法术？~
+@9009 = ~该组件与本游戏不兼容，仅与《博德之门：增强版》兼容~
+@9010 = ~允许在艾瑞尼卡斯地牢中选择从《博德之门》中导入的武器~
+@9011 = ~瓦斯康娜+2~
+@9012 = ~燃烧之地+1~
+@9013 = ~阿诗迪娜+2~
+@9014 = ~巴拉之斧-法师杀手~
+@9015 = ~色瑞斯之刃+2~
+@9016 = ~长牙匕首+2~
+@9017 = ~长矛之杖+2~
+@9018 = ~杖槌+2~
+@9019 = ~投石索+3~
+@9020 = ~克尔坦的碎颅锤+2~
+@9021 = ~凯尔的流星锤+3~
+@9022 = ~被诅咒的狂暴巨剑+3~
 @9023 = ~deprecated~
-@9024 = ~Allow choice of armor imported from Baldur's Gate into Irenecus' dungeon~
-@9025 = ~Mail of the Dead +2~
-@9026 = ~Protector of the Second +2~
-@9027 = ~Fallorain's Plate +1~
-@9028 = ~Armor of Missile Attraction +2~
-@9029 = ~Chain Mail +3~
-@9030 = ~Allow choice of item imported from Baldur's Gate into Irenecus' dungeon~
-@9031 = ~Helm of Balduran~
-@9032 = ~The Claw of Kazgoroth~
-@9033 = ~The Horn of Kazgoroth~
-@9034 = ~Koveras's Ring of Protection~
-@9035 = ~Optional Components~
-@9036 = ~All importable items with randomized Voidhammer +3/Voidsword +3~
-@9037 = ~Update names, appearances, icons, and lore values of existing dragonscale-based items to be consistent across Baldur's Gate 1, 2, and with new items introduced by this mod.  ***These changes are cosmetic only***~
-@9038 = ~This mod is not compatible with the "Allow Cespenar to use Cromwell Recipes" component of the Tweaks mod you have installed.  Please uninstall that component, then install this mod.~
-@9039 = ~Remove "Corny Jokes" effect from Jester's Bracers (BG2EE, BGEET)~
-@9040 = ~This component requires that the primary component of this mod be installed first.  Please install it and try again.~
-@9041 = ~Remove "Corny Jokes" effect from Jester's Bracers (BGEE)~
-@9042 = ~Update resist type for original Shadow Dragonscale Armor for consistency with new variants:  Acid -> Magic Damage)~
-@9043 = ~Cosmetic Enhancements for Existing Items (does not affect function)~
-@9044 = ~Remove annoying item effects, ie: blur, shadowed, physical mirror, spell trap. (Does not affect spells)~
-@9045 = ~Remove pulse-glow visual efects from armor, helmets, and shields.~
-@9046 = ~Enhanced visual on-hit effects. (fire, cold, acid, electricity, magic - cosmetic only)~
-@9047 = ~IWD-Style on-hit visual effects.~
-@9048 = ~BG-Style on-hit visual effects.~
-@9049 = ~IWD-Style on-hit visuals, BG-style sounds.~
-@9050 = ~BG-Style on-hit visuals, IWD-style sounds.~
+@9024 = ~允许在艾瑞尼卡斯地牢中选择从《博德之门》中导入的盔甲~
+@9025 = ~亡者之甲+2~
+@9026 = ~副手守护者+2~
+@9027 = ~法乐安的铠甲+1~
+@9028 = ~引箭咒甲+2~
+@9029 = ~锁子甲+3~
+@9030 = ~允许选择从《博德之门》导入艾瑞尼卡斯地牢的物品~
+@9031 = ~博德安之盔~
+@9032 = ~卡兹伽罗斯之爪~
+@9033 = ~卡兹伽罗斯之角~
+@9034 = ~克佛洛沙的守护之戒~
+@9035 = ~可选组件~
+@9036 = ~所有可导入项目以及随机虚空剑+3或虚空锤+3~
+@9037 = ~更新现有龙鳞物品的名称、外观、图标和传说值，使其与《博德之门1》、《博德之门2》以及本MOD引入的新物品保持一致。 ***这些改动仅为外观改动***~
+@9038 = ~此模块与您已安装的 Tweaks 模块中的"Allow Cespenar to use Cromwell Recipes"组件不兼容。 请卸载该组件，然后安装本mod。~
+@9039 = ~移除小丑的护腕的 "冷笑话 "效果 (BG2EE, BGEET)~
+@9040 = ~该组件要求首先安装本模块的主要组件。 请安装后再试。~
+@9041 = ~移除小丑的护腕的 "冷笑话 "效果(BGEE)~
+@9042 = ~更新原始暗影龙鳞甲的抗性类型，以便与新变体保持一致：酸 -> 魔法伤害)~
+@9043 = ~现有物品的外观改进（不影响功能）~
+@9044 = ~移除恼人的物品效果，如：模糊、阴影、物理镜像、法术陷阱。(不影响法术效果）~
+@9045 = ~消除盔甲、头盔和护盾上的闪光视觉效果。~
+@9046 = ~增强命中时的视觉效果。(火、冷、酸、电、魔法--仅限外观效果）~
+@9047 = ~IWD风格的命中视觉效果。~
+@9048 = ~BG风格的命中视觉效果。~
+@9049 = ~IWD风格的命中视觉效果, BG风格的音效。~
+@9050 = ~BG风格的命中视觉效果, IWD风格的音效。~
 ///// \\\\\
 /////克伦威尔对话\\\\
 ///// \\\\\
@@ -7843,11 +7843,3 @@
 @10005 = ~两个兽人走进酒吧。哎哟！~ [BD45237]
 @10006 = ~上次我给一个食尸鬼讲笑话，他笑得头都要掉了！~ [BD45238]
 @10007 = ~什么东西有狮子的身体，龙的翅膀，涂上黄油味道很棒？一只蝎尾飞狮！~ [BD45239]
-
-
-
-
-
-
-
-
