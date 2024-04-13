@@ -10,6 +10,8 @@ README ~sod2bg2_iu/readme.html~
 ASK_EVERY_COMPONENT
 
 LANGUAGE ~English~ ~english~ ~sod2bg2_iu/language/english/english.tra~
+LANGUAGE ~Simplified Chinese~ ~schinese~ ~sod2bg2_iu/language/english/english.tra~
+                                         ~sod2bg2_iu/language/schinese/sod2bg2_iu.tra~
 
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
